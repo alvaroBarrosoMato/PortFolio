@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head><style type="text/css">
     h1, .h1 {
