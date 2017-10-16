@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head><style type="text/css">
     h1, .h1 {
@@ -153,21 +154,25 @@ h1, .h1 {
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-         <div class="item1">
-        <img class="imagen" src="http://via.placeholder.com/700x300" style="width:100%;">
-        <div class="caption">
-          <p class="p1">Mi primer Repositorio</p>
-        </div>
-        </div>
+          <a href="http://google.com">
+            <div class="item1">
+            <img class="imagen" src="http://via.placeholder.com/700x300" style="width:100%;">
+            <div class="caption">
+              <p class="p1">Mi primer Repositorio</p>
+            </div>
+            </div>
+          </a>
       </div>
 
       <div class="item">
-        <div class="item2">
-        <img class="imagen" src="http://via.placeholder.com/700x300" style="width:100%;">
-        <div class="caption">
-          <p class="p1">Mi Segundo Repositorio</p>
-        </div>
-        </div>
+          <a href="http://google.com">
+            <div class="item2">
+            <img class="imagen" src="http://via.placeholder.com/700x300" style="width:100%;">
+            <div class="caption">
+              <p class="p1">Mi Segundo Repositorio</p>
+            </div>
+            </div>
+          </a>
     </div>
 
     <!-- Left and right controls -->
